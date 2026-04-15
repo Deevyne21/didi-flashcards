@@ -1,6 +1,6 @@
 # 📚 Didi React Flashcards
 
-**Didi React Flashcards** is a simple and interactive quiz card application built with React. It demonstrates core React concepts—especially **state management** and the **`useState` hook** through a practical, hands-on learning experience.
+**Didi React Flashcards** is a simple and interactive quiz card application built with React. It demonstrates core React concepts, especially **state management** and the **`useState` hook** through a practical, hands-on learning experience.
 
 This project was inspired by Jonas Schmedtmann’s Ultimate React Course. However, I added my own tweaks and enhancements to showcase my understanding and creativity in applying React fundamentals.
 
@@ -52,7 +52,7 @@ This project strengthened my understanding of:
 │ ├── index.css
 │ └── main.jsx
 │ ├──assests
-│ │──screenshot.png
+│ │──didflashcards-screenshot.png
 │
 │── package.json
 │── README.md
